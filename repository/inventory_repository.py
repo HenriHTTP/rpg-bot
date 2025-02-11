@@ -1,2 +1,2 @@
-class Inventory_repository:
+class InventoryRepository:
     ...
