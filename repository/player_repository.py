@@ -1,2 +1,2 @@
-class Player_repository:
+class PlayerRepository:
     ...
