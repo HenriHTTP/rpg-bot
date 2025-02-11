@@ -1,2 +1,2 @@
-class Race_repository:
+class RaceRepository:
     ...
